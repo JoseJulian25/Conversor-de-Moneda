@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ConversorDeMonedas","l":"ConversorDeMonedas"},{"p":"ConversorDeMonedas","l":"OpcionesConversion"},{"p":"<Unnamed>","l":"Principal"}];updateSearchResults();
